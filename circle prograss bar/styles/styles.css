@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border : box-sizing;
+}
+/* .circle-body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7d2ae8;
+}
+.container{
+    border-radius: 8px;
+    background: #fff;
+    width: 420px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.circular-prograss{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background: conic-gradient(#7d2ae8 3.6deg, #ededed 0deg);
+    background-color: #f0ff;
+} */
+
+.flex{
+    display: flex;
+    gap: 10px;
+}
+progress{
+    height: 250px;
+    width: 250%;
+    border-radius: ;
+}
